@@ -1,4 +1,4 @@
-# 🚀 LeetCode Journey
+# LeetCode Journey
 
 My personal journey of solving **LeetCode problems using Java** and strengthening my Data Structures & Algorithms skills.
 
@@ -6,24 +6,24 @@ This repository is not just a collection of solutions. It is my **DSA revision a
 
 ---
 
-## 🎯 Goals
+## Goals
 
-* 🧠 Strengthen Data Structures & Algorithms
-* ☕ Improve problem solving using Java
-* 💻 Solve LeetCode problems consistently
-* 🔍 Understand patterns instead of memorizing solutions
-* 📚 Build a revision-friendly DSA archive
-* 📈 Track my progress over time
+* Strengthen Data Structures & Algorithms
+* Improve problem solving using Java
+* Solve LeetCode problems consistently
+* Understand patterns instead of memorizing solutions
+* Build a revision-friendly DSA archive
+* Track my progress over time
 
 ---
 
-## 🛠️ Language
+## Language
 
 **Java**
 
 ---
 
-## 📂 Topics
+## Topics
 
 | Topic                    | Problems |
 | ------------------------ | -------: |
@@ -40,7 +40,7 @@ This repository is not just a collection of solutions. It is my **DSA revision a
 
 ---
 
-## 📊 Progress
+## Progress
 
 **Total Problems Solved: 0**
 
@@ -48,7 +48,7 @@ This repository is not just a collection of solutions. It is my **DSA revision a
 
 ---
 
-## 🧩 Problem Format
+## Problem Format
 
 Each problem is organized using its **LeetCode question number**.
 
@@ -60,18 +60,18 @@ Each problem is organized using its **LeetCode question number**.
 
 The problem README contains:
 
-* 📝 Problem understanding
-* 💡 Approach
-* 🧠 DSA pattern
-* ☕ Java solution reference
-* ⏱️ Time complexity
-* 💾 Space complexity
-* ⚠️ Common mistakes
-* 🔄 Revision points
+* Problem understanding
+* Approach
+* DSA pattern
+* Java solution reference
+* Time complexity
+* Space complexity
+* Common mistakes
+* Revision points
 
 ---
 
-## 🔥 My Learning Approach
+## My Learning Approach
 
 ```text
 Understand
@@ -97,6 +97,6 @@ Revise
 
 ---
 
-## 📈 Journey
+## Journey
 
 This repository will grow alongside my DSA journey, with the aim of becoming a long-term resource for **problem solving, interview preparation, and revision**.
