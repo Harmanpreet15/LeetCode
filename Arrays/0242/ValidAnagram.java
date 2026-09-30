@@ -9,7 +9,7 @@ public class ValidAnagram {
         HashMap<Character, Integer> map = new HashMap<>();
 
         for(char ch : s.toCharArray()){
-            map.put(ch, map.getOrDefault(ch, 0)+1);
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
 
         for(char ch : t.toCharArray()){
@@ -17,7 +17,7 @@ public class ValidAnagram {
                 return false;
             }
 
-            map.put(ch, map.get(ch)-1);
+            map.put(ch, map.get(ch) - 1);
 
             if(map.get(ch) < 0){
                 return false;
@@ -26,9 +26,10 @@ public class ValidAnagram {
 
         return true;
     }
+
     public static void main(String[] args) {
         String s = "anagram";
-        String t = "nagaram";
+        String t = "nagarfam";
 
         System.out.println(isAnagram(s, t));
     }
