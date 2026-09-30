@@ -24,7 +24,7 @@ Output: false
 
 ---
 
-## 💡 Key Idea
+## Key Idea
 
 The **order does not matter**.
 Only the **frequency of each character** matters.
@@ -48,7 +48,7 @@ character → frequency
 
 ---
 
-## 🔑 Important HashMap Pattern
+## Important HashMap Pattern
 
 ### Count frequency
 
@@ -92,7 +92,7 @@ GET old count → -1 → PUT new count
 
 ---
 
-## 🧠 Pattern to Remember
+## Pattern to Remember
 
 **Frequency Map**
 
@@ -111,7 +111,7 @@ This pattern is useful for many problems involving:
 
 ---
 
-## ⚠️ Common Mistakes
+## Common Mistakes
 
 * Checking only whether characters exist — **frequency also matters**
 * Forgetting the length check
@@ -133,7 +133,7 @@ Where:
 
 ---
 
-## 📌 Quick Revision
+## Quick Revision
 
 > **Valid Anagram = Same characters + Same frequencies**
 
