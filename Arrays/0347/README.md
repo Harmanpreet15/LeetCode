@@ -1,6 +1,6 @@
 # LeetCode #347 — Top K Frequent Elements
 
-## 🧩 Problem
+## Problem
 
 Given an integer array `nums` and an integer `k`, return the `k` most frequent elements.
 
@@ -27,7 +27,7 @@ The top 2 frequent elements are `1` and `2`.
 
 ---
 
-# 💡 Core Idea
+# Core Idea
 
 First, count how many times every number appears.
 
@@ -166,7 +166,7 @@ Space → O(m)
 
 ---
 
-# 2️⃣ Approach 2 — PriorityQueue / Min Heap
+# 2 Approach 2 — PriorityQueue / Min Heap
 
 ### Main Idea
 
@@ -269,7 +269,7 @@ If `k` is much smaller than the number of unique elements, a heap can avoid sort
 
 ---
 
-# 3️⃣ Approach 3 — Bucket Sort
+# Approach 3 — Bucket Sort
 
 ### Main Idea
 
@@ -404,7 +404,7 @@ k = required number of elements
 
 ---
 
-# 🧠 Important Java Concepts
+# Important Java Concepts
 
 ### `getOrDefault()`
 
@@ -484,7 +484,7 @@ number → frequency
 
 ---
 
-# ⚠️ Common Mistakes
+# Common Mistakes
 
 * Sorting the numbers instead of their frequencies
 * Forgetting to count frequencies first
@@ -520,7 +520,7 @@ map.put(x, map.getOrDefault(x, 0) + 1);
 
 ---
 
-# 📌 Quick Revision
+# Quick Revision
 
 ### Sorting
 
