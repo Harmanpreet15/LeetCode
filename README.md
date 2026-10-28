@@ -27,9 +27,9 @@ This repository is not just a collection of solutions. It is my **DSA revision a
 
 | Topic                    | Problems |
 | ------------------------ | -------: |
-| Arrays                   |        0 |
+| Arrays                   |       15 |
 | Strings                  |        0 |
-| HashMap                  |        0 |
+| HashMap                  |        2 |
 | Linked List              |        0 |
 | Stack                    |        0 |
 | Binary Search            |        0 |
